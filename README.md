@@ -17,6 +17,8 @@ The analysis uses publicly available company financial statements and market dat
 The analysis uses relative valuation rather than a discounted cash flow model. Results depend on the consistency of reporting periods, accounting definitions, and data availability across companies.
 
 Here is the xlsx file: 
+[Clorox Relative Valuation Analysis](https://github.com/CareerPivotingKenneth/Clorox-Relative-Valuation-Analysis/blob/main/Clorox%20Relative%20Valuation%20Analysis.xlsx)
+
 
 ## Key Findings
   ### Valuation: 
