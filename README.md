@@ -20,14 +20,14 @@ Here is the xlsx file:
 
 ## Key Findings
   ### Valuation: 
-  <img width="580" height="835" alt="Screenshot (676)" src="https://github.com/user-attachments/assets/78008183-7cb6-46ed-9fe5-73af89750099" />
+<img width="567" height="547" alt="Valuation Final resized" src="https://github.com/user-attachments/assets/dd09f6a6-a84b-446f-8799-5c4fdd9a9794" />
 
 * **The Clorox Company’s Market Price is discounted:**  The P/E and EV/EBITDA of the company is 36.86% and 13.26% lower than its peers respectively, it indicates that the company’s share is cheaper than its peers relative to earnings and core operating profit.
 
 * **High P/B Ratio:** The Clorox Company’s Price-to-book ratio is 229.28% higher than its peers. However, its massive ratio is driven heavily by the company’s depleted equity value, it only indicates that the Clorox’s Market Capitalization is expensive relative to its low equity value compared to its peers having healthy equity baselines.
 
   ### Margins & Returns:
-  <img width="942" height="927" alt="Screenshot (672)" src="https://github.com/user-attachments/assets/6cbc4b79-e96a-4604-9164-196822c4590c" />
+<img width="442" height="435" alt="Margins and Returns" src="https://github.com/user-attachments/assets/3a7615a7-fbb8-4dd8-93a3-0c5c05fc8329" />
 
 * **Clorox has lower profitability margins:** the company’s operating margin and net margin is 16.72% and 26.44% lower than its peers respectively, it indicates that the Clorox’s current profitability is underperforming compared to its peers. 
 
