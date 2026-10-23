@@ -36,7 +36,7 @@ Here is the xlsx file:
 * **High ROE Ratio:** the company has 248.01% higher ROE than its peers. However, it has the same explanation with its P/B, stating that the huge amount of its ROE is due to its depleted equity value, in such, pairing with an ordinary net income amount numerator can result into dramatical ratio.
 
   ### Growth:
-  <img width="709" height="905" alt="Screenshot (673)" src="https://github.com/user-attachments/assets/2553140a-3f38-43ea-9315-ec12749f1bb1" />
+<img width="405" height="535" alt="CARG Resized" src="https://github.com/user-attachments/assets/c03e3652-1846-4aa8-aaa1-663471e0f9f0" />
 
 **Revenue is Shrinking since 2022:** Clorox’s revenue compounded annual growth rate (CARG) of 5 years since 2022 is -1.39% which is 147% lower than the 2.91% revenue CARG of its peers since 2022.  
 
@@ -45,7 +45,7 @@ Here is the xlsx file:
 **Bigger EPS CARG for 3 years:** the company has 58.85% of 3 years compounded annual growth rate of EPS compared to 2.54% of its peers making it 2419.30% bigger. However, one of the reasons of its unusual growth rate is the low initial value in 2023 which is $1.20. Along with that, the company also has the lowest shares outstanding among its peers and the number didn’t grow since 2023. But it will not change the fact that the company’s diluted EPS is growing fast despite of its shrinking revenue. 
 
   ### Leverage: 
-  <img width="629" height="839" alt="Screenshot (675)" src="https://github.com/user-attachments/assets/8d7bcc17-8504-430e-8287-aa79657880ab" />
+  <img width="499" height="473" alt="Leverage Resized" src="https://github.com/user-attachments/assets/28308c42-4de9-411f-b27f-ed8e1f995220" />
 
 * **Debt-to-Equity Ratio:** The company has 22.22x debt-to-equity ratio which is 974.92% bigger than its peers having only 2.07x. As the same explanation with its P/B, and ROE, the huge debt-to-equity ratio of Clorox is due to its low equity value. But it will not change the fact that the company has 22.22 time more debt than its equity indicating that the company has a huge financial risk.
 
